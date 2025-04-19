@@ -1,1 +1,1 @@
-# slack-trello-clone
+# E-commerce for developers
